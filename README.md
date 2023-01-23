@@ -11,21 +11,21 @@ These scripts setup all the tools I need :
 - Bash scripting (jq, httpie, dot)
 - VSCode for coding
 - python3, pip and pipenv
+- Salesforce, Azure and Google Cloud CLI
 - ...
 
 Known to work on:
 - Google PixelBook
 
 Requirements:
-- [Dev channel](https://support.google.com/chromebook/answer/1086915?hl=en)
-- Settings | Linux (Beta) : Activated
+- Settings | Linux : Activated
 
 Open the Terminal app, then
 
 ```bash
 sudo apt update
 sudo apt install git
-git clone https://github.com/ukabu/dev-on-chromeos.git
+git clone https://github.com/patrickyong/dev-on-chromeos.git
 cd dev-on-chromeos
 ./setup.sh
 ```
