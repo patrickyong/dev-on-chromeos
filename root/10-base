@@ -44,4 +44,5 @@ apt-get install -y \
   wget \
   xz-utils \
   zlib1g-dev \
-  zip
+  zip\
+  gnome-keyring
