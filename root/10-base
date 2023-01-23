@@ -46,3 +46,4 @@ apt-get install -y \
   zlib1g-dev \
   zip\
   gnome-keyring
+  
