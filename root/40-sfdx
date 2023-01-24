@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ ! -d "sfdx" ] 
+if [ ! -d "../sfdx" ] 
 then
     wget https://developer.salesforce.com/media/salesforce-cli/sfdx-linux-amd64.tar.xz
     mkdir sfdx
