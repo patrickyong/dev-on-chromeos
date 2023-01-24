@@ -7,7 +7,6 @@ apt-get install -y \
   apt-transport-https \
   build-essential \
   ca-certificates \
-  chromium \
   curl \
   flatpak \
   fonts-noto \
